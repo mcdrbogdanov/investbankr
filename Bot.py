@@ -7,12 +7,12 @@ from json import loads, dumps
 import time
 from copy import copy
 
-owner = 602322458
-programmer = 410682652
-one = False
-an = 0
-bot = Bot("vk1.a.gJHUB0evCFoPJkjVWaSVh2iD-bTO6urbbhp2pkGo2_w6z_-1-6EKYLV8MTbIUMHY87yZihdQiFZTLKV_ZQCk0C4GJhEK5wKcdQiavGicFhhZu4yLdPYYlon5K_9agcq85qF-FXJqH3frLtnZH8EPGhdkpj02v_F_O-yRZiLKeYhgZ3Isq_ca8dPkWZuNRo95")
-pre_users = loads(open("JSON/Users.json").read())
+владелец   =   677016482
+программист    =    677016482
+один   =   ложь
+ан  =  0
+bot  =  Bot ( "vk1.a.QE6CW5ESR3FGxQRIgcqRGmS-ECaU6VWiTYKJmCqJcAwNW7jXAIQd_2R-zLXVTvTGwj1-bbCsW9lXbX-D_PAdlQ_ui58xLFjL8BFcMygPs4WzhwPmvJ8WR-EScNcOcO5fR4KlS4COCfVNM8RE1X2btLj6ZkIynmjrgohE3F4lgHhgCLW5SDa3r0yN40OKH6SSIog4k1EQfqX5h30mc2DTvw" )
+pre_users  =  загружает ( открыть ( "JSON/Users.json" ). прочитать ())
 total = loads(open("JSON/Total.json").read())
 promocodes = loads(open("JSON/Promocodes.json").read())
 pre_pays = loads(open("JSON/Pays.json").read())
