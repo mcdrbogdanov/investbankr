@@ -7,12 +7,12 @@ from json import loads, dumps
 import time
 from copy import copy
 
-владелец   =   677016482
-программист    =    677016482
-один   =   ложь
-ан  =  0
+owner   =   677016482
+programmer    =    677016482
+one   =   False
+an  =  0
 bot  =  Bot ( "vk1.a.QE6CW5ESR3FGxQRIgcqRGmS-ECaU6VWiTYKJmCqJcAwNW7jXAIQd_2R-zLXVTvTGwj1-bbCsW9lXbX-D_PAdlQ_ui58xLFjL8BFcMygPs4WzhwPmvJ8WR-EScNcOcO5fR4KlS4COCfVNM8RE1X2btLj6ZkIynmjrgohE3F4lgHhgCLW5SDa3r0yN40OKH6SSIog4k1EQfqX5h30mc2DTvw" )
-pre_users  =  загружает ( открыть ( "JSON/Users.json" ). прочитать ())
+pre_users  =  loads(open( "JSON/Users.json" ). прочитать ())
 total = loads(open("JSON/Total.json").read())
 promocodes = loads(open("JSON/Promocodes.json").read())
 pre_pays = loads(open("JSON/Pays.json").read())
