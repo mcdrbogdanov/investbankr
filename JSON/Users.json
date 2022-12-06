@@ -1,0 +1,19 @@
+{
+    "677016482": {
+        "I$": 99999999,
+        "bonusI$": 9999999999,
+        "inventory": {
+            "I$ Starter Server": 1000,
+            "I$ Mining Standart": 1000,
+            "I$ Pro Server": 1000,
+            "I$ Station": 1000
+        },
+        "action": "",
+        "cooldowns": {
+            "servers": 0
+        },
+        "ref": 0,
+        "likes": [],
+        "promocodes": []
+    }
+}
