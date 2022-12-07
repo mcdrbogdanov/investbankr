@@ -12,7 +12,7 @@
         "cooldowns": {
             "servers": 0
         },
-        "ref": 0,
+        "ref": [0],
         "likes": [],
         "promocodes": []
     }
